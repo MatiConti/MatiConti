@@ -18,10 +18,12 @@ Me interesan la arquitectura de software, los datos y la ciberseguridad.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" alt="Google Cloud" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
