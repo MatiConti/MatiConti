@@ -23,6 +23,7 @@ Me interesan la arquitectura de software, los datos y la ciberseguridad.
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
 </p>
 
