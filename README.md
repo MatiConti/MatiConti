@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**MatiConti/MatiConti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **Matias Conti**, desarrollador Full Stack de Córdoba, Argentina, y estudiante en la Universidad Tecnológica Nacional (UTN FRC).
+
+Me dedico a diseñar y desarrollar soluciones de software para problemas operativos concretos. Actualmente formo parte de **Droguería Pharma Center**, donde desarrollo **Diango**, una plataforma de gestión multi-empresa, y **SGS**, un sistema de gestión de servicios. También me ocupo de automatizar procesos de negocio para reducir la carga manual y optimizar la operación.
+
+Me interesan la arquitectura de software, los datos y la ciberseguridad.
+
+## 🛠 Lenguajes y herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,sqlite,git&perline=13" />
+</p>
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20Conti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-conti-68110b217/)
